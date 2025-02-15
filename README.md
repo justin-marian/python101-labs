@@ -1,6 +1,6 @@
 # Python101 Labs 🐍
 
-This repository contains **lab exercises** for the **Python101** course. Each lab builds foundational programming concepts in Python, covering syntax, programming paradigms, object-oriented programming, modules, web development, and version control.
+This repository contains **lab exercises** for the **Python101** course. Each lab builds foundational programming concepts in Python, covering **syntax, programming paradigms, object-oriented programming, modules, web development, and version control** with **Git & GitHub**.
 
 ---
 
