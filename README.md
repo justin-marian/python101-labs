@@ -88,6 +88,7 @@ A separate **Git workshop** was conducted to introduce **version control**:
 
 ---
 
-## 📂 Documentation
+## 📂 Documentation  
 
-All course slides and notes are available in the **docs/** directory.
+All course slides and notes are available in the **docs/** directory.  
+📌 The courses are in **Romanian** 🇷🇴.  
