@@ -3,7 +3,7 @@
 ## 01-converted-numbers
 
 In this problem you will have to form numbers made up of several letters, taking into account the ASCII codes of each character.
-Thus, for a list ['a', 'b', 'c'], our number will be equal to the sum of the ASCII codes of the characters in the list (for help check [asciitable.com]<https://www.asciitable.com/>).
+Thus, for a list ['a', 'b', 'c'], our number will be equal to the sum of the ASCII codes of the characters in the list for help check [asciitable.com](https://www.asciitable.com/).
 **To convert to ASCII code you can use the ord(char) function.**
 
 After forming the respective number, you will have to check *how many times that number is divisible by 2*.
