@@ -76,7 +76,7 @@ This lab introduced **web development with Flask**:
 
 ## 🛠️ Extra: Git Workshop  
 
-📄 **Course Reference:** [Course6 - Git Workshop](docs/course6.pdf)  
+📄 **Course Reference:** [Course6 - Git Workshop](docs/course6.pptx)  
 
 A separate **Git workshop** was conducted to introduce **version control**:
 
